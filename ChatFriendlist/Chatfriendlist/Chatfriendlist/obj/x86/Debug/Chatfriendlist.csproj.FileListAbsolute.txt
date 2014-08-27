@@ -1,0 +1,9 @@
+H:\huaiweishixun\projects\ChatFriendlist\Chatfriendlist\Chatfriendlist\bin\Debug\Chatfriendlist.exe
+H:\huaiweishixun\projects\ChatFriendlist\Chatfriendlist\Chatfriendlist\bin\Debug\Chatfriendlist.pdb
+H:\huaiweishixun\projects\ChatFriendlist\Chatfriendlist\Chatfriendlist\obj\x86\Debug\Chatfriendlist.FormMain.resources
+H:\huaiweishixun\projects\ChatFriendlist\Chatfriendlist\Chatfriendlist\obj\x86\Debug\Chatfriendlist.Properties.Resources.resources
+H:\huaiweishixun\projects\ChatFriendlist\Chatfriendlist\Chatfriendlist\obj\x86\Debug\Chatfriendlist.UCfriend.resources
+H:\huaiweishixun\projects\ChatFriendlist\Chatfriendlist\Chatfriendlist\obj\x86\Debug\Chatfriendlist.csproj.GenerateResource.Cache
+H:\huaiweishixun\projects\ChatFriendlist\Chatfriendlist\Chatfriendlist\obj\x86\Debug\Chatfriendlist.exe
+H:\huaiweishixun\projects\ChatFriendlist\Chatfriendlist\Chatfriendlist\obj\x86\Debug\Chatfriendlist.pdb
+H:\huaiweishixun\projects\ChatFriendlist\Chatfriendlist\Chatfriendlist\obj\x86\Debug\Chatfriendlist.csprojResolveAssemblyReference.cache
